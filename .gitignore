@@ -1,0 +1,6 @@
+main
+KvClient
+KvServer
+unittests
+obj/
+**/*.o
